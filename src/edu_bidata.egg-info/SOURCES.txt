@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/datacsv.py
+src/main.py
+src/edu_bidata.egg-info/PKG-INFO
+src/edu_bidata.egg-info/SOURCES.txt
+src/edu_bidata.egg-info/dependency_links.txt
+src/edu_bidata.egg-info/requires.txt
+src/edu_bidata.egg-info/top_level.txt
+src/static/database.py

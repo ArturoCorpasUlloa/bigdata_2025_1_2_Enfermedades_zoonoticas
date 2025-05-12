@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: edu_bidata
+Version: 0.0.0
+Author: Santiago Alvarez Olivera
+Author-email: santiago.alvarez@est.iudigital.edu.co
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

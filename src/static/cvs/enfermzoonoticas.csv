@@ -1,0 +1,330 @@
+codigo,localidad,casos_notificados,denominador,ano,evento,especie,otro_especie,sub_red
+15,Antonio Nari¤o,1,111683,2021,Brucelosis,Caninos,,Centro Oriente
+12,Barrios Unidos,2,79233,2021,Brucelosis,Caninos,,Norte
+7,Bosa,3,13971,2021,Brucelosis,Caninos,,Sur Occidente
+2,Chapinero,2,22890,2021,Brucelosis,Caninos,,Norte
+19,Ciudad Bolivar,13,63480,2021,Brucelosis,Caninos,,Sur
+0,Distrito,68,1084214,2021,Brucelosis,Caninos,,
+10,Engativa,6,69003,2021,Brucelosis,Caninos,,Norte
+9,Fontibon,4,55261,2021,Brucelosis,Caninos,,Sur Occidente
+8,Kennedy,5,13594,2021,Brucelosis,Caninos,,Sur Occidente
+14,Los Martires,1,132241,2021,Brucelosis,Caninos,,Centro Oriente
+18,Rafael Uribe,1,25057,2021,Brucelosis,Caninos,,Centro Oriente
+4,San Cristobal,3,116120,2021,Brucelosis,Caninos,,Centro Oriente
+3,Santa Fe,4,110762,2021,Brucelosis,Caninos,,Centro Oriente
+11,Suba,3,24426,2021,Brucelosis,Caninos,,Norte
+20,Sumapaz,2,428,2021,Brucelosis,Caninos,,Sur
+13,Teusaquillo,4,87780,2021,Brucelosis,Caninos,,Norte
+6,Tunjuelito,2,69409,2021,Brucelosis,Caninos,,Sur
+1,Usaquen,5,31146,2021,Brucelosis,Caninos,,Norte
+5,Usme,7,18702,2021,Brucelosis,Caninos,,Sur
+0,Distrito,3,0,2021,Dermatomicosis,Felinos,,
+10,Engativa,1,0,2021,Dermatomicosis,Felinos,,Norte
+11,Suba,1,0,2021,Dermatomicosis,Felinos,,Norte
+1,Usaquen,1,0,2021,Dermatomicosis,Felinos,,Norte
+0,Distrito,2,1084214,2021,Leishmaniasis,Caninos,,
+11,Suba,1,24426,2021,Leishmaniasis,Caninos,,Norte
+13,Teusaquillo,1,87780,2021,Leishmaniasis,Caninos,,Norte
+15,Antonio Nari¤o,2,111683,2021,Leptospirosis,Caninos,,Centro Oriente
+12,Barrios Unidos,1,79233,2021,Leptospirosis,Caninos,,Norte
+7,Bosa,3,13971,2021,Leptospirosis,Caninos,,Sur Occidente
+17,Candelaria,1,4710,2021,Leptospirosis,Caninos,,Centro Oriente
+2,Chapinero,7,22890,2021,Leptospirosis,Caninos,,Norte
+19,Ciudad Bolivar,3,63480,2021,Leptospirosis,Caninos,,Sur
+0,Distrito,2,0,2021,Leptospirosis,Felinos,,
+0,Distrito,54,1084214,2021,Leptospirosis,Caninos,,
+10,Engativa,4,69003,2021,Leptospirosis,Caninos,,Norte
+9,Fontibon,1,55261,2021,Leptospirosis,Caninos,,Sur Occidente
+8,Kennedy,4,13594,2021,Leptospirosis,Caninos,,Sur Occidente
+14,Los Martires,2,132241,2021,Leptospirosis,Caninos,,Centro Oriente
+16,Puente Aranda,2,34318,2021,Leptospirosis,Caninos,,Sur Occidente
+18,Rafael Uribe,2,25057,2021,Leptospirosis,Caninos,,Centro Oriente
+4,San Cristobal,3,116120,2021,Leptospirosis,Caninos,,Centro Oriente
+11,Suba,2,24426,2021,Leptospirosis,Caninos,,Norte
+20,Sumapaz,1,428,2021,Leptospirosis,Caninos,,Sur
+13,Teusaquillo,1,0,2021,Leptospirosis,Felinos,,Norte
+13,Teusaquillo,2,87780,2021,Leptospirosis,Caninos,,Norte
+1,Usaquen,1,0,2021,Leptospirosis,Felinos,,Norte
+1,Usaquen,9,31146,2021,Leptospirosis,Caninos,,Norte
+5,Usme,5,18702,2021,Leptospirosis,Caninos,,Sur
+0,Distrito,1,1084214,2021,Sarna Demodecica,Caninos,,
+11,Suba,1,24426,2021,Sarna Demodecica,Caninos,,Norte
+0,Distrito,1,0,2021,Sarna Sarcoptica,Felinos,,
+1,Usaquen,1,0,2021,Sarna Sarcoptica,Felinos,,Norte
+2,Chapinero,1,22890,2021,Toxoplasmosis,Caninos,,Norte
+0,Distrito,1,0,2021,Toxoplasmosis,Felinos,,
+0,Distrito,3,1084214,2021,Toxoplasmosis,Caninos,,
+18,Rafael Uribe,1,25057,2021,Toxoplasmosis,Caninos,,Centro Oriente
+4,San Cristobal,1,116120,2021,Toxoplasmosis,Caninos,,Centro Oriente
+5,Usme,1,0,2021,Toxoplasmosis,Felinos,,Sur
+0,Distrito,1,1081321,2022,Anticuerpos Borrelia Burgdorferi,Caninos,,
+1,Usaquen,1,69409,2022,Anticuerpos Borrelia Burgdorferi,Caninos,,Norte
+0,Distrito,1,0,2022,Bartonella,Felinos,,
+9,Fontibon,3,0,2022,Bartonella,Felinos,,Sur Occidente
+12,Barrios Unidos,2,31146,2022,Brucelosis,Caninos,,Norte
+7,Bosa,8,79233,2022,Brucelosis,Caninos,,Sur Occidente
+17,Candelaria,1,4710,2022,Brucelosis,Caninos,,Centro Oriente
+2,Chapinero,2,22890,2022,Brucelosis,Caninos,,Norte
+19,Ciudad Bolivar,16,111683,2022,Brucelosis,Caninos,,Sur
+0,Distrito,2,0,2022,Brucelosis,Felinos,,
+0,Distrito,90,1081321,2022,Brucelosis,Caninos,,
+10,Engativa,1,0,2022,Brucelosis,Felinos,,Norte
+10,Engativa,5,110762,2022,Brucelosis,Caninos,,Norte
+9,Fontibon,1,0,2022,Brucelosis,Felinos,,Sur Occidente
+9,Fontibon,4,87780,2022,Brucelosis,Caninos,,Sur Occidente
+8,Kennedy,6,132241,2022,Brucelosis,Caninos,,Sur Occidente
+16,Puente Aranda,1,34318,2022,Brucelosis,Caninos,,Sur Occidente
+18,Rafael Uribe,8,52568,2022,Brucelosis,Caninos,,Centro Oriente
+4,San Cristobal,5,69003,2022,Brucelosis,Caninos,,Centro Oriente
+3,Santa Fe,7,24226,2022,Brucelosis,Caninos,,Centro Oriente
+11,Suba,3,116120,2022,Brucelosis,Caninos,,Norte
+13,Teusaquillo,1,18702,2022,Brucelosis,Caninos,,Norte
+6,Tunjuelito,4,25057,2022,Brucelosis,Caninos,,Sur
+1,Usaquen,6,69409,2022,Brucelosis,Caninos,,Norte
+5,Usme,11,63480,2022,Brucelosis,Caninos,,Sur
+2,Chapinero,2,22890,2022,Ehrlichia Canis,Caninos,,Norte
+0,Distrito,7,1081321,2022,Ehrlichia Canis,Caninos,,
+10,Engativa,1,110762,2022,Ehrlichia Canis,Caninos,,Norte
+18,Rafael Uribe,2,52568,2022,Ehrlichia Canis,Caninos,,Centro Oriente
+6,Tunjuelito,1,25057,2022,Ehrlichia Canis,Caninos,,Sur
+1,Usaquen,1,69409,2022,Ehrlichia Canis,Caninos,,Norte
+2,Chapinero,2,22890,2022,Leishmaniasis,Caninos,,Norte
+0,Distrito,2,1081321,2022,Leishmaniasis,Caninos,,
+15,Antonio Nari¤o,7,13971,2022,Leptospirosis,Caninos,,Centro Oriente
+12,Barrios Unidos,6,31146,2022,Leptospirosis,Caninos,,Norte
+7,Bosa,6,79233,2022,Leptospirosis,Caninos,,Sur Occidente
+2,Chapinero,2,22890,2022,Leptospirosis,Caninos,,Norte
+19,Ciudad Bolivar,5,111683,2022,Leptospirosis,Caninos,,Sur
+0,Distrito,1,0,2022,Leptospirosis,Felinos,,
+0,Distrito,86,1081321,2022,Leptospirosis,Caninos,,
+10,Engativa,1,0,2022,Leptospirosis,Felinos,,Norte
+10,Engativa,5,110762,2022,Leptospirosis,Caninos,,Norte
+9,Fontibon,3,87780,2022,Leptospirosis,Caninos,,Sur Occidente
+8,Kennedy,6,132241,2022,Leptospirosis,Caninos,,Sur Occidente
+14,Los Martires,2,13594,2022,Leptospirosis,Caninos,,Centro Oriente
+16,Puente Aranda,8,34318,2022,Leptospirosis,Caninos,,Sur Occidente
+18,Rafael Uribe,3,52568,2022,Leptospirosis,Caninos,,Centro Oriente
+4,San Cristobal,10,69003,2022,Leptospirosis,Caninos,,Centro Oriente
+11,Suba,14,116120,2022,Leptospirosis,Caninos,,Norte
+20,Sumapaz,1,428,2022,Leptospirosis,Caninos,,Sur
+13,Teusaquillo,2,18702,2022,Leptospirosis,Caninos,,Norte
+6,Tunjuelito,1,25057,2022,Leptospirosis,Caninos,,Sur
+1,Usaquen,4,69409,2022,Leptospirosis,Caninos,,Norte
+5,Usme,1,63480,2022,Leptospirosis,Caninos,,Sur
+0,Distrito,1,1081321,2022,Otro,Caninos,,
+13,Teusaquillo,1,18702,2022,Otro,Caninos,,Norte
+0,Distrito,6,1081321,2022,Sarna Demodecica,Caninos,,
+10,Engativa,2,110762,2022,Sarna Demodecica,Caninos,,Norte
+4,San Cristobal,1,69003,2022,Sarna Demodecica,Caninos,,Centro Oriente
+13,Teusaquillo,1,18702,2022,Sarna Demodecica,Caninos,,Norte
+1,Usaquen,2,69409,2022,Sarna Demodecica,Caninos,,Norte
+0,Distrito,4,0,2022,Sarna Sarcoptica,Felinos,,
+0,Distrito,2,0,2022,Sarna Sarcoptica,Otro,,
+0,Distrito,4,1081321,2022,Sarna Sarcoptica,Caninos,,
+9,Fontibon,1,0,2022,Sarna Sarcoptica,Felinos,,Sur Occidente
+8,Kennedy,1,0,2022,Sarna Sarcoptica,Felinos,,Sur Occidente
+4,San Cristobal,1,0,2022,Sarna Sarcoptica,Felinos,,Centro Oriente
+11,Suba,1,0,2022,Sarna Sarcoptica,Felinos,,Norte
+11,Suba,1,0,2022,Sarna Sarcoptica,Otro,Mini Pig,Norte
+20,Sumapaz,1,428,2022,Sarna Sarcoptica,Caninos,,Sur
+13,Teusaquillo,1,18702,2022,Sarna Sarcoptica,Caninos,,Norte
+1,Usaquen,1,0,2022,Sarna Sarcoptica,Otro,Roedor,Norte
+1,Usaquen,2,69409,2022,Sarna Sarcoptica,Caninos,,Norte
+0,Distrito,6,0,2022,Toxoplasmosis,Felinos,,
+0,Distrito,3,1081321,2022,Toxoplasmosis,Caninos,,
+10,Engativa,1,110762,2022,Toxoplasmosis,Caninos,,Norte
+8,Kennedy,1,0,2022,Toxoplasmosis,Felinos,,Sur Occidente
+3,Santa Fe,1,0,2022,Toxoplasmosis,Felinos,,Centro Oriente
+11,Suba,2,0,2022,Toxoplasmosis,Felinos,,Norte
+1,Usaquen,2,0,2022,Toxoplasmosis,Felinos,,Norte
+1,Usaquen,2,69409,2022,Toxoplasmosis,Caninos,,Norte
+9,Fontibon,1,,2023,Ancylostoma,Caninos,,Sur Occidente
+0,Distrito,1,,2023,Ancylostoma,Caninos,,
+0,Distrito,144,,2023,Brucelosis,Caninos,,
+15,Antonio Nari¤o,3,,2023,Brucelosis,Caninos,,Centro Oriente
+12,Barrios Unidos,1,,2023,Brucelosis,Caninos,,Norte
+7,Bosa,16,,2023,Brucelosis,Caninos,,Sur Occidente
+2,Chapinero,1,,2023,Brucelosis,Caninos,,Norte
+19,Ciudad Bolivar,29,,2023,Brucelosis,Caninos,,Sur
+10,Engativa,12,,2023,Brucelosis,Caninos,,Norte
+8,Kennedy,5,,2023,Brucelosis,Caninos,,Sur Occidente
+14,Los Martires,1,,2023,Brucelosis,Caninos,,Centro Oriente
+16,Puente Aranda,4,,2023,Brucelosis,Caninos,,Sur Occidente
+18,Rafael Uribe,7,,2023,Brucelosis,Caninos,,Centro Oriente
+4,San Cristobal,10,,2023,Brucelosis,Caninos,,Centro Oriente
+3,Santa Fe,10,,2023,Brucelosis,Caninos,,Centro Oriente
+11,Suba,10,,2023,Brucelosis,Caninos,,Norte
+13,Teusaquillo,1,,2023,Brucelosis,Caninos,,Norte
+6,Tunjuelito,3,,2023,Leptospirosis,Caninos,,Sur
+6,Tunjuelito,2,,2023,Brucelosis,Caninos,,Sur
+1,Usaquen,11,,2023,Brucelosis,Caninos,,Norte
+5,Usme,19,,2023,Brucelosis,Caninos,,Sur
+16,Puente Aranda,1,,2023,Toxoplasmosis,Felinos,,Sur Occidente
+16,Puente Aranda,1,,2023,Criptococosis,Caninos,,Sur Occidente
+1,Usaquen,3,,2023,Criptococosis,Caninos,,Norte
+0,Distrito,9,,2023,Criptococosis,Caninos,,
+8,Kennedy,1,,2023,Dipilidiasis,Felinos,,Sur Occidente
+8,Kennedy,1,,2023,Dipilidiasis,Caninos,,Sur Occidente
+0,Distrito,1,,2023,Dipilidiasis,Caninos,,
+15,Antonio Nari¤o,1,,2023,Toxoplasmosis,Caninos,,Centro Oriente
+15,Antonio Nari¤o,8,,2023,Ehrlichia Canis,Caninos,,Centro Oriente
+7,Bosa,2,,2023,Ehrlichia Canis,Caninos,,Sur Occidente
+0,Distrito,10,,2023,Ehrlichia Canis,Caninos,,
+11,Suba,1,,2023,Esplenitis micotica,Caninos,,Norte
+0,Distrito,1,,2023,Esplenitis micotica,Caninos,,
+2,Chapinero,1,,2023,Leishmaniasis,Caninos,,Norte
+8,Kennedy,1,,2023,Leishmaniasis,Caninos,,Sur Occidente
+1,Usaquen,2,,2023,Leishmaniasis,Caninos,,Norte
+0,Distrito,6,,2023,Leishmaniasis,Caninos,,
+15,Antonio Nari¤o,9,,2023,Leptospirosis,Caninos,,Centro Oriente
+12,Barrios Unidos,3,,2023,Leptospirosis,Caninos,,Norte
+7,Bosa,8,,2023,Leptospirosis,Caninos,,Sur Occidente
+19,Ciudad Bolivar,5,,2023,Leptospirosis,Caninos,,Sur
+10,Engativa,12,,2023,Leptospirosis,Caninos,,Norte
+9,Fontibon,2,,2023,Leptospirosis,Caninos,,Sur Occidente
+8,Kennedy,2,,2023,Coccidiosis,Caninos,,Sur Occidente
+8,Kennedy,22,,2023,Leptospirosis,Caninos,,Sur Occidente
+14,Los Martires,1,,2023,Leptospirosis,Caninos,,Centro Oriente
+16,Puente Aranda,4,,2023,Leptospirosis,Caninos,,Sur Occidente
+18,Rafael Uribe,1,,2023,Clostridiosis,Caninos,,Centro Oriente
+18,Rafael Uribe,1,,2023,Giardiosis,Felinos,,Centro Oriente
+18,Rafael Uribe,1,,2023,Leptospirosis,Caninos,,Centro Oriente
+4,San Cristobal,26,,2023,Leptospirosis,Caninos,,Centro Oriente
+11,Suba,21,,2023,Leptospirosis,Caninos,,Norte
+13,Teusaquillo,7,,2023,Leptospirosis,Caninos,,Norte
+1,Usaquen,19,,2023,Leptospirosis,Caninos,,Norte
+5,Usme,3,,2023,Leptospirosis,Caninos,,Sur
+0,Distrito,149,,2023,Leptospirosis,Caninos,,
+1,Usaquen,7,,2023,Neospora,Caninos,,Norte
+0,Distrito,14,,2023,Neospora,Caninos,,
+11,Suba,1,,2023,Leishmaniasis,Caninos,,Norte
+11,Suba,1,,2023,Toxoplasmosis,Caninos,,Norte
+11,Suba,1,,2023,Salmonela,Caninos,,Norte
+0,Distrito,1,,2023,Salmonela,Caninos,,
+8,Kennedy,1,,2023,Sarna Sarcoptica,Caninos,,Sur Occidente
+13,Teusaquillo,1,,2023,Sarna Sarcoptica,Caninos,,Norte
+0,Distrito,3,,2023,Sarna Sarcoptica,Caninos,,
+2,Chapinero,3,,2023,Leptospirosis,Caninos,,Norte
+2,Chapinero,3,,2023,Neospora,Caninos,,Norte
+2,Chapinero,4,,2023,Criptococosis,Caninos,,Norte
+2,Chapinero,7,,2023,Toxoplasmosis,Caninos,,Norte
+10,Engativa,1,,2023,Criptococosis,Caninos,,Norte
+10,Engativa,1,,2023,Toxoplasmosis,Caninos,,Norte
+14,Los Martires,1,,2023,Toxoplasmosis,Caninos,,Centro Oriente
+13,Teusaquillo,4,,2023,Neospora,Caninos,,Norte
+13,Teusaquillo,8,,2023,Toxoplasmosis,Caninos,,Norte
+1,Usaquen,1,,2023,Borreliosis,Caninos,,Norte
+1,Usaquen,7,,2023,Toxoplasmosis,Caninos,,Norte
+0,Distrito,26,,2023,Toxoplasmosis,Caninos,,
+9,Fontibon,3,,2023,Bartonella,Felinos,,Sur Occidente
+0,Distrito,4,,2023,Bartonella,Felinos,,
+7,Bosa,1,,2023,Dermatomicosis,Felinos,,Sur Occidente
+0,Distrito,1,,2023,Dermatomicosis,Felinos,,
+9,Fontibon,1,,2023,Leptospirosis,Felinos,,Sur Occidente
+1,Usaquen,2,,2023,Toxoplasmosis,Felinos,,Norte
+1,Usaquen,2,,2023,Leptospirosis,Felinos,,Norte
+0,Distrito,3,,2023,Leptospirosis,Felinos,,
+11,Suba,1,,2023,Malassezia,Felinos,,Norte
+0,Distrito,1,,2023,Malassezia,Felinos,,
+4,San Cristobal,1,,2023,Sarna Sarcoptica,Caninos,,Centro Oriente
+4,San Cristobal,1,,2023,Sarna Demodecica,Felinos,,Centro Oriente
+0,Distrito,1,,2023,Sarna Demodecica,Felinos,,
+7,Bosa,1,,2023,Bartonella,Felinos,,Sur Occidente
+7,Bosa,1,,2023,Sarna Sarcoptica,Felinos,,Sur Occidente
+8,Kennedy,1,,2023,Sarna Sarcoptica,Felinos,,Sur Occidente
+0,Distrito,2,,2023,Sarna Sarcoptica,Felinos,,
+13,Teusaquillo,1,,2023,Toxoplasmosis,Felinos,,Norte
+0,Distrito,4,,2023,Toxoplasmosis,Felinos,,
+18,Rafael Uribe,1,,2023,Campilobacteriosis,Felinos,,Centro Oriente
+0,Distrito,1,,2023,Borreliosis,Caninos,,
+0,Distrito,1,,2023,Campilobacteriosis,Felinos,,
+0,Distrito,1,,2023,Clostridiosis,Caninos,,
+0,Distrito,2,,2023,Coccidiosis,Caninos,,
+0,Distrito,1,,2023,Giardiosis,Felinos,,
+17,Candelaria,2,,2023,Brucelosis,Caninos,,Centro Oriente
+17,Candelaria,1,,2023,Leishmaniasis,Caninos,,Centro Oriente
+0,Distrito,1,,2023,Dipilidiasis,Felinos,,
+1,Usaquen,1,,2024,Borreliosis,Caninos,,Norte
+1,Usaquen,4,,2024,Brucelosis,Caninos,,Norte
+1,Usaquen,1,,2024,Criptococosis,Caninos,,Norte
+1,Usaquen,1,,2024,Leishmaniasis,Caninos,,Norte
+1,Usaquen,13,,2024,Leptospirosis,Caninos,,Norte
+1,Usaquen,1,,2024,Sarna Demodecica,Caninos,,Norte
+1,Usaquen,2,,2024,Neospora,Caninos,,Norte
+1,Usaquen,11,,2024,Toxoplasmosis,Caninos,,Norte
+1,Usaquen,1,,2024,Sarna Sarcoptica,Felinos,,Norte
+1,Usaquen,5,,2024,Toxoplasmosis,Felinos,,Norte
+2,Chapinero,2,,2024,Brucelosis,Caninos,,Norte
+2,Chapinero,2,,2024,Criptococosis,Caninos,,Norte
+2,Chapinero,4,,2024,Leptospirosis,Caninos,,Norte
+2,Chapinero,1,,2024,Sarna Sarcoptica,Otro,Lagomorfo,Norte
+2,Chapinero,2,,2024,Toxoplasmosis,Caninos,,Norte
+2,Chapinero,2,,2024,Toxoplasmosis,Felinos,,Norte
+3,Santa Fe,2,,2024,Brucelosis,Caninos,,Centro Oriente
+3,Santa Fe,2,,2024,Leptospirosis,Caninos,,Centro Oriente
+4,San Cristobal,15,,2024,Brucelosis,Caninos,,Centro Oriente
+4,San Cristobal,14,,2024,Leptospirosis,Caninos,,Centro Oriente
+5,Usme,10,,2024,Brucelosis,Caninos,,Sur
+5,Usme,4,,2024,Leptospirosis,Caninos,,Sur
+6,Tunjuelito,2,,2024,Brucelosis,Caninos,,Sur
+6,Tunjuelito,17,,2024,Leptospirosis,Caninos,,Sur
+7,Bosa,6,,2024,Brucelosis,Caninos,,Sur Occidente
+7,Bosa,4,,2024,Leptospirosis,Caninos,,Sur Occidente
+8,Kennedy,9,,2024,Brucelosis,Caninos,,Sur Occidente
+8,Kennedy,26,,2024,Leptospirosis,Caninos,,Sur Occidente
+8,Kennedy,6,,2024,Coccidiosis,Caninos,,Sur Occidente
+8,Kennedy,1,,2024,Toxoplasmosis,Caninos,,Sur Occidente
+8,Kennedy,1,,2024,Dipilidiasis,Caninos,,Sur Occidente
+8,Kennedy,1,,2024,Sarna Sarcoptica,Caninos,,Sur Occidente
+8,Kennedy,2,,2024,Bartonella,Felinos,,Sur Occidente
+8,Kennedy,3,,2024,Coccidiosis,Felinos,,Sur Occidente
+8,Kennedy,2,,2024,Sarna Sarcoptica,Felinos,,Sur Occidente
+9,Fontibon,4,,2024,Leptospirosis,Caninos,,Sur Occidente
+9,Fontibon,1,,2024,Sarna Demodecica,Caninos,,Sur Occidente
+9,Fontibon,1,,2024,Toxoplasmosis,Felinos,,Sur Occidente
+10,Engativa,3,,2024,Brucelosis,Caninos,,Norte
+10,Engativa,12,,2024,Leptospirosis,Caninos,,Norte
+10,Engativa,1,,2024,Criptococosis,Caninos,,Norte
+10,Engativa,2,,2024,Leishmaniasis,Caninos,,
+11,Suba,4,,2024,Leptospirosis,Caninos,,Norte
+11,Suba,2,,2024,Brucelosis,Caninos,,Norte
+11,Suba,1,,2024,Criptococosis,Caninos,,Norte
+11,Suba,1,,2024,Toxoplasmosis,Caninos,,Norte
+11,Suba,1,,2024,Sarna Demodecica,Caninos,,Norte
+11,Suba,1,,2024,Toxoplasmosis,Felinos,,Norte
+13,Teusaquillo,3,,2024,Brucelosis,Caninos,,Norte
+13,Teusaquillo,6,,2024,Leptospirosis,Caninos,,Norte
+13,Teusaquillo,1,,2024,Criptococosis,Caninos,,Norte
+13,Teusaquillo,2,,2024,Neospora,Caninos,,Norte
+14,Los Martires,1,,2024,Brucelosis,Caninos,,Centro Oriente
+14,Los Martires,1,,2024,Leptospirosis,Caninos,,Centro Oriente
+15,Antonio Nari¤o,28,,2024,Leptospirosis,Caninos,,Centro Oriente
+15,Antonio Nari¤o,1,,2024,Brucelosis,Caninos,,Centro Oriente
+15,Antonio Nari¤o,1,,2024,Sarna Sarcoptica,Otro,Lagomorfo,Centro Oriente
+16,Puente Aranda,1,,2024,Brucelosis,Caninos,,Sur Occidente
+16,Puente Aranda,21,,2024,Leptospirosis,Caninos,,Sur Occidente
+16,Puente Aranda,2,,2024,Sarna Sarcoptica,Otro,Lagomorfo,Sur Occidente
+18,Rafael Uribe,7,,2024,Brucelosis,Caninos,,Centro Oriente
+18,Rafael Uribe,1,,2024,Toxoplasmosis,Caninos,,Centro Oriente
+18,Rafael Uribe,10,,2024,Leptospirosis,Caninos,,Centro Oriente
+19,Ciudad Bolivar,25,,2024,Brucelosis,Caninos,,Sur
+19,Ciudad Bolivar,15,,2024,Leptospirosis,Caninos,,Sur
+12,Barrios Unidos,1,,2024,Toxoplasmosis,Caninos,,Norte
+18,Rafael Uribe,1,,2024,Clostridiosis,Felinos,,Centro Oriente
+0,Distrito,2,,2024,Bartonella,Felinos,,
+0,Distrito,1,,2024,Borreliosis,Caninos,,
+0,Distrito,93,,2024,Brucelosis,Caninos,,
+0,Distrito,6,,2024,Coccidiosis,Caninos,,
+0,Distrito,3,,2024,Coccidiosis,Felinos,,
+0,Distrito,6,,2024,Criptococosis,Caninos,,
+0,Distrito,3,,2024,Leishmaniasis,Caninos,,
+0,Distrito,1,,2024,Dipilidiasis,Caninos,,
+0,Distrito,185,,2024,Leptospirosis,Caninos,,
+0,Distrito,1,,2024,Sarna Sarcoptica,Caninos,,
+0,Distrito,3,,2024,Sarna Demodecica,Caninos,,
+0,Distrito,4,,2024,Neospora,Caninos,,
+0,Distrito,3,,2024,Sarna Sarcoptica,Felinos,,
+0,Distrito,4,,2024,Sarna Sarcoptica,Otro,Lagomorfo,
+0,Distrito,17,,2024,Toxoplasmosis,Caninos,,
+0,Distrito,1,,2024,Clostridiosis,Felinos,,
+0,Distrito,9,,2024,Toxoplasmosis,Felinos,,
