@@ -22,5 +22,8 @@ steps:
         run: pip install --upgrade pip
       - name: Paso 6 - Instalar dependecias
         run: pip install -e .
-with:
-  commit_message: Entrega de la actividad 1
+        with:
+          commit_message: Entrega de la actividad 1
+          commit_user_name: Andres Callejas [GitHub Actions]
+          commit_user_email: andres.callejas@iudigital.edu.co
+          commit_author: Andres Callejas <andres.callejas@iudigital.edu.co>
